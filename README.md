@@ -1,1 +1,3 @@
-# fomulario-stage-03-explorer
+# Formulário Stage 03 - Explorer Rocketseat
+
+Formulário desenvolvido no curso explorer.
